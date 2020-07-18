@@ -25,7 +25,7 @@ const Work = () => {
           'Beast Mode!', 2000, 
           'Coding Quiz', 2000,
           'Weather Deshboard', 2000,
-          'Template_Engine_Employee_Summary', 2000,
+          'Employee_Summary', 2000,
           'Employee Directory', 2000,
         
         ]}

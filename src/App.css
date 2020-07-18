@@ -9,7 +9,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; 
-  background-image: linear-gradient(to right,#000000, rgb(255, 183, 77, 0.8));
+  background-image: linear-gradient(to right,#000000, rgba(85, 117, 121, 0.8));
   animation: gradient 4s ease forwards;
 }
 body{

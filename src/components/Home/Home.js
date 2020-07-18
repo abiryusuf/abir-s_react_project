@@ -18,7 +18,7 @@ const Home = () => {
           'A Web Developer', 2000, 
           'A Programmer', 2000,
           'A Designer', 2000,
-          'An QA', 2000,
+          'A QA', 2000,
         ]}
         loop={Infinity}
         wrapper="span"
