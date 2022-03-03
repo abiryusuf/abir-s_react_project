@@ -64,9 +64,7 @@ const About = () => {
       </section>
     </div>
     <div className="cv">
-    <a target="_blank" href="https://docs.google.com/document/d/1_LNdqDnzNeY-PxLWtuFSYWjeqnDUaP9W/edit" className = "button" rel="noopener noreferrer">
-     View Resume
-   </a>
+    
     </div>
     
 
